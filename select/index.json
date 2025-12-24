@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Diana",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T15:29:58.684552Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dirty Diana",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_Dirty_Diana_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brigidine Diana",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/02_Brigidine_Diana_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brigidine Diana",
+      "artist": "Sinead O'connor",
+      "has_synced": false,
+      "path": "select/03_Brigidine_Diana_Sinead_O'connor.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "feels so good (feat. space candy, gfoty, lil mariko, & diana starshine)",
+      "artist": "recovery girl",
+      "has_synced": true,
+      "path": "select/04_feels_so_good_(feat._space_candy,_gfoty,_lil_mariko,_&_diana_starshine)_recovery_girl.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "its love redux (feat. diana starshine & tyler lee jones)",
+      "artist": "recovery girl",
+      "has_synced": false,
+      "path": "select/05_its_love_redux_(feat._diana_starshine_&_tyler_lee_jones)_recovery_girl.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "physical touch (feat. petal supply & diana starshine)",
+      "artist": "recovery girl",
+      "has_synced": true,
+      "path": "select/06_physical_touch_(feat._petal_supply_&_diana_starshine)_recovery_girl.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Diana Slowburner II",
+      "artist": "The American Analog Set",
+      "has_synced": true,
+      "path": "select/07_Diana_Slowburner_II_The_American_Analog_Set.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Diana",
+      "artist": "Diana Gordon",
+      "has_synced": true,
+      "path": "select/08_Diana_Diana_Gordon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Oh Diana",
+      "artist": "Nervo",
+      "has_synced": true,
+      "path": "select/09_Oh_Diana_Nervo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Diana Ross",
+      "artist": "The Concretes",
+      "has_synced": false,
+      "path": "select/10_Diana_Ross_The_Concretes.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Come Alive Diana",
+      "artist": "Everything Everything",
+      "has_synced": true,
+      "path": "select/11_Come_Alive_Diana_Everything_Everything.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Diana - Single Version",
+      "artist": "Comus",
+      "has_synced": false,
+      "path": "select/12_Diana_-_Single_Version_Comus.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "your guts in my hands (feat. jade fawn & diana starshine)",
+      "artist": "Galen Tipton",
+      "has_synced": false,
+      "path": "select/13_your_guts_in_my_hands_(feat._jade_fawn_&_diana_starshine)_Galen_Tipton.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Diana (feat. King Combs & Calboy) [Remix]",
+      "artist": "Pop Smoke",
+      "has_synced": false,
+      "path": "select/14_Diana_(feat._King_Combs_&_Calboy)_[Remix]_Pop_Smoke.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Diana (Remix) (feat. King Combs & Calboy)",
+      "artist": "Pop Smoke",
+      "has_synced": false,
+      "path": "select/15_Diana_(Remix)_(feat._King_Combs_&_Calboy)_Pop_Smoke.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hey Diana",
+      "artist": "Masters of Reality",
+      "has_synced": false,
+      "path": "select/16_Hey_Diana_Masters_of_Reality.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cocaine Diana",
+      "artist": "Kid Loco",
+      "has_synced": false,
+      "path": "select/17_Cocaine_Diana_Kid_Loco.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Diana - Desiderata - 2011 Stereo Mix",
+      "artist": "Mike Oldfield",
+      "has_synced": true,
+      "path": "select/18_Diana_-_Desiderata_-_2011_Stereo_Mix_Mike_Oldfield.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Diana",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Diana_One_Direction.txt"
+    }
+  ]
+}
